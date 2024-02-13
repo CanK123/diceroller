@@ -1,2 +1,1 @@
-#An Exercise
-For me to grasp basics of webdev
+An Exercise For me to grasp basics of webdev
